@@ -144,7 +144,10 @@ time.sleep(5)
 input("Press Enter to start mining...")
 
 
-difficulty_level = 5
+difficulty_level = 4
 mine_ethereum(difficulty_level)
+
+
+
 
 input("Press Enter to exit...")
